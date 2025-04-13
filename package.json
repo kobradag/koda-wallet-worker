@@ -1,5 +1,5 @@
 {
-  "name": "@kaspa/wallet-worker",
+  "name": "@kobradag/wallet-worker",
   "version": "1.1.25",
   "description": "Worker (node + browser) wrapping kaspa-wallet",
   "main": "dist/index.js",
